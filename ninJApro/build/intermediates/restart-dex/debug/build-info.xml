@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="96224213047474"
+    token="-2818796250585172466" >
+
+    <task
+        name="javac"
+        duration="550" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="35" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="C:\Users\KIMDONGWOO_DESK\Desktop\NinJAprocode\ninJApro\build\outputs\apk\ninJApro-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="96224213047474" >
+        <artifact
+            location="C:\Users\KIMDONGWOO_DESK\Desktop\NinJAprocode\ninJApro\build\outputs\apk\ninJApro-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

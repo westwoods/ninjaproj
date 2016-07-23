@@ -1,0 +1,48 @@
+-injars 'C:\Users\KIMDONGWOO_DESK\Desktop\NinJAprocode\ninJApro\build\intermediates\transforms\jarMerging\release\jars\1\1f\combined.jar'
+-outjars 'C:\Users\KIMDONGWOO_DESK\Desktop\NinJAprocode\ninJApro\build\intermediates\multi-dex\release\componentClasses.jar'
+
+-libraryjars 'C:\Users\KIMDONGWOO_DESK\AppData\Local\Android\Sdk\build-tools\23.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'C:\Users\KIMDONGWOO_DESK\Desktop\NinJAprocode\ninJApro\build\intermediates\multi-dex\release\components.flags'
+
+
+-keep class com.facebook.FacebookActivity {
+    <init>();
+}
+
+-keep class k.com.ninjabeta.FaceBookLoginActivity {
+    <init>();
+}
+
+-keep class k.com.ninjabeta.GameActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

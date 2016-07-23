@@ -1,0 +1,3 @@
+CHANGED,C:\Users\KIMDONGWOO_DESK\Desktop\NinJAprocode\ninJApro\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\KIMDONGWOO_DESK\Desktop\NinJAprocode\ninJApro\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\k\com\ninjabeta\BuildConfig$override.class
+CHANGED,C:\Users\KIMDONGWOO_DESK\Desktop\NinJAprocode\ninJApro\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\GamemodeClass\Intro$override.class

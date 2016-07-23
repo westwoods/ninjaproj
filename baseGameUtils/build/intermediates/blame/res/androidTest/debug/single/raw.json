@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\KIMDONGWOO\\Desktop\\SW_hw1\\NinJAprocode\\baseGameUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\KIMDONGWOO\\Desktop\\SW_hw1\\NinJAprocode\\baseGameUtils\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\KIMDONGWOO-LAB\\Desktop\\SW_hw1\\NinJAprocode\\baseGameUtils\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\KIMDONGWOO-LAB\\Desktop\\SW_hw1\\NinJAprocode\\baseGameUtils\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.2.0\\res\\raw\\gtm_analytics"
+    }
+]

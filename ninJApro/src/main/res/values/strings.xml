@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CrashCircle!</string>
+    <string name="app_name">NinJA</string>
+    <string name="facebook_app_id">1019039398179652</string>
+  <string name="app_id">950097784141</string>
+  <string name="achievement_">CgkIzdr2sdMbEAIQAQ</string>
+  <string name="achievement_1">CgkIzdr2sdMbEAIQAg</string>
+  <string name="achievement_2">CgkIzdr2sdMbEAIQAw</string>
+  <string name="achievement_3">CgkIzdr2sdMbEAIQBA</string>
+  <string name="achievement_4">CgkIzdr2sdMbEAIQBQ</string>
+  <string name="leaderboard">CgkIzdr2sdMbEAIQBg</string>
+</resources>

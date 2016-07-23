@@ -1,0 +1,1874 @@
+[
+    {
+        "outputFile": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\res\\merged\\debug\\values-tr\\values-tr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 107,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 107,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 116,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 116,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 95,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 95,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 67,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 67,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 68,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 559,
+                        "endColumn": 68,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 62,
+                    "endOffset": 621
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 628,
+                        "endColumn": 62,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 626,
+                    "endColumn": 70,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 70,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endColumn": 74,
+                    "endOffset": 767
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 74,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 772,
+                    "endColumn": 92,
+                    "endOffset": 860
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 837,
+                        "endColumn": 92,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 865,
+                    "endColumn": 75,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 75,
+                        "endOffset": 1001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endColumn": 75,
+                    "endOffset": 1012
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1006,
+                        "endColumn": 75,
+                        "endOffset": 1077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1017,
+                    "endColumn": 81,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1082,
+                        "endColumn": 81,
+                        "endOffset": 1159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 102,
+                    "endOffset": 1197
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1164,
+                        "endColumn": 102,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1202,
+                    "endColumn": 64,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1267,
+                        "endColumn": 64,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endColumn": 65,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1332,
+                        "endColumn": 65,
+                        "endOffset": 1393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 126,
+                    "endOffset": 1455
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1398,
+                        "endColumn": 126,
+                        "endOffset": 1520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1460,
+                    "endColumn": 207,
+                    "endOffset": 1663
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 211,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1668,
+                    "endColumn": 181,
+                    "endOffset": 1845
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2674,
+                        "endColumn": 185,
+                        "endOffset": 2855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1850,
+                    "endColumn": 115,
+                    "endOffset": 1961
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2366,
+                        "endColumn": 115,
+                        "endOffset": 2477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1966,
+                    "endColumn": 270,
+                    "endOffset": 2232
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4738,
+                        "endColumn": 274,
+                        "endOffset": 5008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2237,
+                    "endColumn": 136,
+                    "endOffset": 2369
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2096,
+                        "endColumn": 136,
+                        "endOffset": 2228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2374,
+                    "endColumn": 190,
+                    "endOffset": 2560
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1901,
+                        "endColumn": 194,
+                        "endOffset": 2091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2565,
+                    "endColumn": 134,
+                    "endOffset": 2695
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1766,
+                        "endColumn": 134,
+                        "endOffset": 1896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2700,
+                    "endColumn": 172,
+                    "endOffset": 2868
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 176,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2873,
+                    "endColumn": 130,
+                    "endOffset": 2999
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1635,
+                        "endColumn": 130,
+                        "endOffset": 1761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3004,
+                    "endColumn": 217,
+                    "endOffset": 3217
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1192,
+                        "endColumn": 221,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3222,
+                    "endColumn": 216,
+                    "endOffset": 3434
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 220,
+                        "endOffset": 1630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3439,
+                    "endColumn": 129,
+                    "endOffset": 3564
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 129,
+                        "endOffset": 1187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3569,
+                    "endColumn": 179,
+                    "endOffset": 3744
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3624,
+                        "endColumn": 179,
+                        "endOffset": 3799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3749,
+                    "endColumn": 122,
+                    "endOffset": 3867
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3501,
+                        "endColumn": 122,
+                        "endOffset": 3619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3872,
+                    "endColumn": 177,
+                    "endOffset": 4045
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 177,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4050,
+                    "endColumn": 175,
+                    "endOffset": 4221
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3325,
+                        "endColumn": 175,
+                        "endOffset": 3496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4226,
+                    "endColumn": 115,
+                    "endOffset": 4337
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3209,
+                        "endColumn": 115,
+                        "endOffset": 3320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4342,
+                    "endColumn": 188,
+                    "endOffset": 4526
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 188,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4531,
+                    "endColumn": 135,
+                    "endOffset": 4662
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 135,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4667,
+                    "endColumn": 185,
+                    "endOffset": 4848
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 5137,
+                        "endColumn": 185,
+                        "endOffset": 5318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4853,
+                    "endColumn": 123,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 5013,
+                        "endColumn": 123,
+                        "endOffset": 5132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endColumn": 150,
+                    "endOffset": 5123
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3804,
+                        "endColumn": 150,
+                        "endOffset": 3950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5128,
+                    "endColumn": 247,
+                    "endOffset": 5371
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4082,
+                        "endColumn": 251,
+                        "endOffset": 4329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5376,
+                    "endColumn": 126,
+                    "endOffset": 5498
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3955,
+                        "endColumn": 126,
+                        "endOffset": 4077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5503,
+                    "endColumn": 108,
+                    "endOffset": 5607
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4334,
+                        "endColumn": 108,
+                        "endOffset": 4438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5612,
+                    "endColumn": 187,
+                    "endOffset": 5795
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2482,
+                        "endColumn": 191,
+                        "endOffset": 2669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5800,
+                    "endColumn": 132,
+                    "endOffset": 5928
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2233,
+                        "endColumn": 132,
+                        "endOffset": 2361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5933,
+                    "endColumn": 207,
+                    "endOffset": 6136
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2997,
+                        "endColumn": 211,
+                        "endOffset": 3204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 6141,
+                    "endColumn": 136,
+                    "endOffset": 6273
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2860,
+                        "endColumn": 136,
+                        "endOffset": 2992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 6278,
+                    "endColumn": 90,
+                    "endOffset": 6364
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4647,
+                        "endColumn": 90,
+                        "endOffset": 4733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 6369,
+                    "endColumn": 93,
+                    "endOffset": 6458
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4443,
+                        "endColumn": 93,
+                        "endOffset": 4532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 6463,
+                    "endColumn": 109,
+                    "endOffset": 6568
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4537,
+                        "endColumn": 109,
+                        "endOffset": 4642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 6573,
+                    "endColumn": 61,
+                    "endOffset": 6630
+                },
+                "from": {
+                    "file": "C:\\Users\\kdw86\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1657,
+                        "endColumn": 61,
+                        "endOffset": 1714
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\res\\merged\\debug\\values-tr\\values-tr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 107,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 107,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 116,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 116,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 95,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 95,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 67,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 67,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 68,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 559,
+                        "endColumn": 68,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 62,
+                    "endOffset": 621
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 628,
+                        "endColumn": 62,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 626,
+                    "endColumn": 70,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 70,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endColumn": 74,
+                    "endOffset": 767
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 74,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 772,
+                    "endColumn": 92,
+                    "endOffset": 860
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 837,
+                        "endColumn": 92,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 865,
+                    "endColumn": 75,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 75,
+                        "endOffset": 1001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endColumn": 75,
+                    "endOffset": 1012
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1006,
+                        "endColumn": 75,
+                        "endOffset": 1077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1017,
+                    "endColumn": 81,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1082,
+                        "endColumn": 81,
+                        "endOffset": 1159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 102,
+                    "endOffset": 1197
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1164,
+                        "endColumn": 102,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1202,
+                    "endColumn": 64,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1267,
+                        "endColumn": 64,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endColumn": 65,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1332,
+                        "endColumn": 65,
+                        "endOffset": 1393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 126,
+                    "endOffset": 1455
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1398,
+                        "endColumn": 126,
+                        "endOffset": 1520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1460,
+                    "endColumn": 207,
+                    "endOffset": 1663
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 211,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1668,
+                    "endColumn": 181,
+                    "endOffset": 1845
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2674,
+                        "endColumn": 185,
+                        "endOffset": 2855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1850,
+                    "endColumn": 115,
+                    "endOffset": 1961
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2366,
+                        "endColumn": 115,
+                        "endOffset": 2477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1966,
+                    "endColumn": 270,
+                    "endOffset": 2232
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4738,
+                        "endColumn": 274,
+                        "endOffset": 5008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2237,
+                    "endColumn": 136,
+                    "endOffset": 2369
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2096,
+                        "endColumn": 136,
+                        "endOffset": 2228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2374,
+                    "endColumn": 190,
+                    "endOffset": 2560
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1901,
+                        "endColumn": 194,
+                        "endOffset": 2091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2565,
+                    "endColumn": 134,
+                    "endOffset": 2695
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1766,
+                        "endColumn": 134,
+                        "endOffset": 1896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2700,
+                    "endColumn": 172,
+                    "endOffset": 2868
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 176,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2873,
+                    "endColumn": 130,
+                    "endOffset": 2999
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1635,
+                        "endColumn": 130,
+                        "endOffset": 1761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3004,
+                    "endColumn": 217,
+                    "endOffset": 3217
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1192,
+                        "endColumn": 221,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3222,
+                    "endColumn": 216,
+                    "endOffset": 3434
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 220,
+                        "endOffset": 1630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3439,
+                    "endColumn": 129,
+                    "endOffset": 3564
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 129,
+                        "endOffset": 1187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3569,
+                    "endColumn": 179,
+                    "endOffset": 3744
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3624,
+                        "endColumn": 179,
+                        "endOffset": 3799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3749,
+                    "endColumn": 122,
+                    "endOffset": 3867
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3501,
+                        "endColumn": 122,
+                        "endOffset": 3619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3872,
+                    "endColumn": 177,
+                    "endOffset": 4045
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 177,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4050,
+                    "endColumn": 175,
+                    "endOffset": 4221
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3325,
+                        "endColumn": 175,
+                        "endOffset": 3496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4226,
+                    "endColumn": 115,
+                    "endOffset": 4337
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3209,
+                        "endColumn": 115,
+                        "endOffset": 3320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4342,
+                    "endColumn": 188,
+                    "endOffset": 4526
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 188,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4531,
+                    "endColumn": 135,
+                    "endOffset": 4662
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 135,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4667,
+                    "endColumn": 185,
+                    "endOffset": 4848
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 5137,
+                        "endColumn": 185,
+                        "endOffset": 5318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4853,
+                    "endColumn": 123,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 5013,
+                        "endColumn": 123,
+                        "endOffset": 5132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endColumn": 150,
+                    "endOffset": 5123
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3804,
+                        "endColumn": 150,
+                        "endOffset": 3950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5128,
+                    "endColumn": 247,
+                    "endOffset": 5371
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4082,
+                        "endColumn": 251,
+                        "endOffset": 4329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5376,
+                    "endColumn": 126,
+                    "endOffset": 5498
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3955,
+                        "endColumn": 126,
+                        "endOffset": 4077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5503,
+                    "endColumn": 108,
+                    "endOffset": 5607
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4334,
+                        "endColumn": 108,
+                        "endOffset": 4438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5612,
+                    "endColumn": 187,
+                    "endOffset": 5795
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2482,
+                        "endColumn": 191,
+                        "endOffset": 2669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5800,
+                    "endColumn": 132,
+                    "endOffset": 5928
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2233,
+                        "endColumn": 132,
+                        "endOffset": 2361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5933,
+                    "endColumn": 207,
+                    "endOffset": 6136
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2997,
+                        "endColumn": 211,
+                        "endOffset": 3204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 6141,
+                    "endColumn": 136,
+                    "endOffset": 6273
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2860,
+                        "endColumn": 136,
+                        "endOffset": 2992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 6278,
+                    "endColumn": 90,
+                    "endOffset": 6364
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4647,
+                        "endColumn": 90,
+                        "endOffset": 4733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 6369,
+                    "endColumn": 93,
+                    "endOffset": 6458
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4443,
+                        "endColumn": 93,
+                        "endOffset": 4532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 6463,
+                    "endColumn": 109,
+                    "endOffset": 6568
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\values-tr\\common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4537,
+                        "endColumn": 109,
+                        "endOffset": 4642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 6573,
+                    "endColumn": 61,
+                    "endOffset": 6630
+                },
+                "from": {
+                    "file": "C:\\Users\\KIMDONGWOO_DESK\\Desktop\\NinJAprocode\\ninJApro\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-tr\\values-tr.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1657,
+                        "endColumn": 61,
+                        "endOffset": 1714
+                    }
+                }
+            }
+        ]
+    }
+]

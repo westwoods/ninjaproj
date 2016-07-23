@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "k.com.ninjabeta"
+        minSdkVersion 15
+        targetSdkVersion 20
+        multiDexEnabled true
+    }
+    dexOptions {
+        javaMaxHeapSize "2g"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    useLibrary 'org.apache.http.legacy'
+}
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile files('libs/bayabalib_pro20150601.jar')
+    compile 'com.facebook.android:facebook-android-sdk:4.8.2'
+    compile 'com.facebook.android:audience-network-sdk:4.8.2'
+}

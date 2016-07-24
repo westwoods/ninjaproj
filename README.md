@@ -23,21 +23,21 @@ ninjapro\src\main\java\AssistClass\SQLiteDBManager.java
 ninjapro\src\main\java\k.com.ninjabeta\FaceBookLoginActivity.java
 페이스북의 LoginManager통해서 페이스북으로 로그인
 
- 4. 앱스토어에 업로드 되어야함.
+ 4.앱스토어에 업로드 되어야함.
 
 https://play.google.com/store/apps/details?id=k.com.ninjabeta 업로드 하였습니다.
 
- 5. 서버 프로그램이 클라우드나 호스팅이 되는 서버에 배포가 되어야함.
+ 5.서버 프로그램이 클라우드나 호스팅이 되는 서버에 배포가 되어야함.
 
 닷홈 웹호스팅 서버에 업로드됨 
 
- 6. 데이터는 DB에 저장되어 SQL을 통해서 조회 및 추가가 가능해야함.
+ 6.데이터는 DB에 저장되어 SQL을 통해서 조회 및 추가가 가능해야함.
 
 ninjapro\src\main\java\AssistClass\SQLiteDBManager.java
 update~time() 메소드 통해서 로컬DB 시간정보 입력가능
 getResult() 메소드 통해서 로컬 DB정보 조회 가능
 
- 7. 백엔드는 BaaS나 클라우드 제한 없으나 웹서비스 형태이어야 함.
+ 7.백엔드는 BaaS나 클라우드 제한 없으나 웹서비스 형태이어야 함.
 
 웹호스팅 사용
 	

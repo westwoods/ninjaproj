@@ -8,17 +8,17 @@ Documents
 
 필수사항
 
- 1. 앱(게임)과 서버 통시하는 로직이 포함되어야함. 
+ 1.앱(게임)과 서버 통시하는 로직이 포함되어야함. 
 
 ninjapro\src\main\java\AssistClass\ConnectDB.java
 HttpSaveData(), HttpLoadData() 메소드통해서 웹서버와 통신 게임의 골드획득, 스코어, 접속시간, 종료시간 저장 및 로드
 
- 2. 클라이언트 게임은 게임첫 설치 시간. 접속 시간. 접속후 게임종료시간. 마지막 플레이시간등이 DB에 저장되어야 함.
+ 2.클라이언트 게임은 게임첫 설치 시간. 접속 시간. 접속후 게임종료시간. 마지막 플레이시간등이 DB에 저장되어야 함.
 
 ninjapro\src\main\java\AssistClass\SQLiteDBManager.java
 로컬 DB를 생성하고 초기 DB 생성시 설치시간 저장, 첫 Activity가 실행될때 접속시간, 마지막 Activity가 종료될때 게임종료시간 DB에 저장
 
- 3. 페이스북, 트위터, 이메일등 타 서비스 연계가 1개이상 되어야 함.
+ 3.페이스북, 트위터, 이메일등 타 서비스 연계가 1개이상 되어야 함.
 
 ninjapro\src\main\java\k.com.ninjabeta\FaceBookLoginActivity.java
 페이스북의 LoginManager통해서 페이스북으로 로그인

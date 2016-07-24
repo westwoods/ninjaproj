@@ -6,6 +6,8 @@ sw maestro kimdongwoo project1
 Documents
 -------------
 
+https://www.dropbox.com/s/yvs3w5ykdejqlo9/%EA%B3%BC%EC%A0%9C1.hwp?dl=0 
+슼스클스크린스크린샷스크린샷을 퐇포함포함한 봋보충보충섦보충설명 잘자룡자료이자료입닏자료입니다.
 필수사항
 
  1.앱(게임)과 서버 통시하는 로직이 포함되어야함. 
